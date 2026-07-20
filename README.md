@@ -26,10 +26,7 @@ This project helps to manage books by adding, viewing, searching, issuing, retur
 python library_management.py
 
 ## Project Demo
-Add your demo video link here.
+Video Link: https://drive.google.com/file/d/1Sso7KHmHeFV8sajQgrUyTlyRj0NGL16M/view?usp=sharing
 
 ## Output
 The system displays book details and manages book status as Available or Issued.
-
-## Demo Video Link
-Video Link: https://drive.google.com/file/d/1OXeoTquxGh5qf25ge1pEH60MX5Dv5rXZ/view?usp=sharing
